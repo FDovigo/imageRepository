@@ -1,1 +1,1 @@
-image repository for projects
+repository for images
